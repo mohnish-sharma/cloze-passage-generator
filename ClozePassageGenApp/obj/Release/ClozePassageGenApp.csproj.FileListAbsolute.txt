@@ -1,0 +1,14 @@
+C:\Users\MidnightZen\Documents\School\Year 12\Software\TASK 3\ClozePassageGenApp\ClozePassageGenApp\bin\Release\ClozePassageGenApp.exe.config
+C:\Users\MidnightZen\Documents\School\Year 12\Software\TASK 3\ClozePassageGenApp\ClozePassageGenApp\bin\Release\ClozePassageGenApp.exe
+C:\Users\MidnightZen\Documents\School\Year 12\Software\TASK 3\ClozePassageGenApp\ClozePassageGenApp\bin\Release\ClozePassageGenApp.pdb
+C:\Users\MidnightZen\Documents\School\Year 12\Software\TASK 3\ClozePassageGenApp\ClozePassageGenApp\obj\Release\ClozePassageGenApp.csproj.AssemblyReference.cache
+C:\Users\MidnightZen\Documents\School\Year 12\Software\TASK 3\ClozePassageGenApp\ClozePassageGenApp\obj\Release\ClozePassageGenApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidnightZen\Documents\School\Year 12\Software\TASK 3\ClozePassageGenApp\ClozePassageGenApp\obj\Release\ClozePassageGenApp.Form1.resources
+C:\Users\MidnightZen\Documents\School\Year 12\Software\TASK 3\ClozePassageGenApp\ClozePassageGenApp\obj\Release\ClozePassageGenApp.Form2.resources
+C:\Users\MidnightZen\Documents\School\Year 12\Software\TASK 3\ClozePassageGenApp\ClozePassageGenApp\obj\Release\ClozePassageGenApp.Form3.resources
+C:\Users\MidnightZen\Documents\School\Year 12\Software\TASK 3\ClozePassageGenApp\ClozePassageGenApp\obj\Release\ClozePassageGenApp.Form4.resources
+C:\Users\MidnightZen\Documents\School\Year 12\Software\TASK 3\ClozePassageGenApp\ClozePassageGenApp\obj\Release\ClozePassageGenApp.Properties.Resources.resources
+C:\Users\MidnightZen\Documents\School\Year 12\Software\TASK 3\ClozePassageGenApp\ClozePassageGenApp\obj\Release\ClozePassageGenApp.csproj.GenerateResource.cache
+C:\Users\MidnightZen\Documents\School\Year 12\Software\TASK 3\ClozePassageGenApp\ClozePassageGenApp\obj\Release\ClozePassageGenApp.csproj.CoreCompileInputs.cache
+C:\Users\MidnightZen\Documents\School\Year 12\Software\TASK 3\ClozePassageGenApp\ClozePassageGenApp\obj\Release\ClozePassageGenApp.exe
+C:\Users\MidnightZen\Documents\School\Year 12\Software\TASK 3\ClozePassageGenApp\ClozePassageGenApp\obj\Release\ClozePassageGenApp.pdb
