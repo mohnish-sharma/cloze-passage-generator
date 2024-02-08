@@ -1,5 +1,7 @@
 # cloze-passage-generator
 
+![shadow2](https://github.com/mohnish-sharma/cloze-passage-generator/assets/40487866/450495ce-e9d6-4d85-889f-cc3abf8c04ee)
+
 ## Overview
 The Cloze Passage Generator App is a simple yet powerful tool designed to create cloze passages, or "fill-in-the-blank" exercises, and has a built-in quiz feature. 
 
