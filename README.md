@@ -24,8 +24,9 @@ To get started with the Cloze Passage Generator App, follow these steps:
 5. **Export (Optional):** If desired, export the generated cloze passage to your preferred format.
 
 ## Screenshots
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+![Help Image](ClozePassageGenApp/Resources/help%201.png)
+![Help Image](ClozePassageGenApp/Resources/help%202.png)
+
 
 
 ## Acknowledgements
